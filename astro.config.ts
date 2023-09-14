@@ -11,7 +11,7 @@ export default defineConfig({
 	site: "https://noahdjroton.github.io",
 	markdown: {
 		shikiConfig: {
-			theme: "dracula",
+			theme: "github-light",
 			wrap: true,
 		},
 	},
